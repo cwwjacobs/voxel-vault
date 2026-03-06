@@ -1,0 +1,8 @@
+Voxel Vault demo file
+owner: example
+project: provenance-demo
+items:
+- dataset-beta
+- dataset-alpha
+- dataset-gamma
+notes: deterministic registration baseline with light changes

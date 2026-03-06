@@ -1,0 +1,101 @@
+VoxelVault Source-Available License v1.0
+========================================
+
+Copyright (c) 2026 Corey J. (ixCore.io)
+All Rights Reserved.
+
+DEFINITIONS
+-----------
+"Software" means the VoxelVault source code, documentation, algorithms,
+and associated files distributed under this license.
+
+"Author" means Corey J., operating as ixCore.io.
+
+"You" means any individual or entity accessing or viewing the Software.
+
+GRANT OF RIGHTS
+---------------
+The Author grants You the following limited rights:
+
+1. VIEWING: You may read, study, and review the Software source code
+   for personal educational purposes.
+
+2. DISCUSSION: You may publicly discuss, reference, describe, and
+   critique the concepts, architecture, and algorithms embodied in the
+   Software. Attribution to the Author and ixCore.io is required.
+
+3. EVALUATION: You may run the Software locally for the sole purpose
+   of evaluating its functionality. Evaluation use does not grant any
+   right to deploy, distribute, or derive commercial benefit from the
+   Software.
+
+RESTRICTIONS
+------------
+Unless explicitly authorized in writing by the Author, You may NOT:
+
+1. Use the Software for any commercial purpose.
+2. Modify, adapt, or create derivative works based on the Software.
+3. Redistribute, sublicense, sell, lease, or transfer the Software
+   or any portion thereof.
+4. Incorporate the Software, in whole or in part, into any other
+   software, product, or service.
+5. Remove, alter, or obscure any copyright notices, license text,
+   or attribution statements in the Software.
+6. Use the Software to provide services to third parties, whether
+   or not compensation is received.
+7. Reverse engineer any compiled or obfuscated portions of the
+   Software beyond what is provided in source form.
+
+ATTRIBUTION
+-----------
+Any public discussion, presentation, publication, or reference to the
+concepts embodied in this Software must include the following attribution:
+
+    "VoxelVault by Corey J. / ixCore.io"
+
+INTELLECTUAL PROPERTY
+---------------------
+The spatial steganographic fingerprinting method ("Voxel Dead Drop"),
+including but not limited to the use of seed-derived ECEF coordinate
+quantization for data provenance binding, multi-granularity fingerprint
+spatial storage, and temporal commitment anchoring, constitutes original
+intellectual property of the Author. This license does not grant any
+patent, trademark, or other intellectual property rights beyond the
+limited viewing and discussion rights explicitly stated above.
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE.
+
+TERMINATION
+-----------
+This license is effective until terminated. Your rights under this license
+terminate automatically without notice if You fail to comply with any of
+its terms. Upon termination, You must destroy all copies of the Software
+in Your possession.
+
+FUTURE LICENSING
+----------------
+The Author reserves the right to release future versions of the Software
+under different license terms, including open-source licenses. Any such
+relicensing applies only to versions explicitly released under the new
+terms. This version remains governed by this license unless the Author
+provides written notice of relicensing.
+
+GOVERNING LAW
+-------------
+This license shall be governed by and construed in accordance with the
+laws of the United States of America and the State of Minnesota.
+
+CONTACT
+-------
+For licensing inquiries, commercial use requests, or collaboration
+proposals: support@ixcore.io
+
+---
+License version: 1.0
+Effective date: February 2026
