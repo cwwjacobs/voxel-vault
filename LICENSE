@@ -1,101 +1,134 @@
-VoxelVault Source-Available License v1.0
-========================================
+Required Notice: Copyright 2026 Corey Jacobs.
+Required Notice: Commercial licensing inquiries: Corey Jacobs <support@ixcore.io>.
 
-Copyright (c) 2026 Corey J. (ixCore.io)
-All Rights Reserved.
+# PolyForm Noncommercial License 1.0.0
 
-DEFINITIONS
------------
-"Software" means the VoxelVault source code, documentation, algorithms,
-and associated files distributed under this license.
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-"Author" means Corey J., operating as ixCore.io.
+## Acceptance
 
-"You" means any individual or entity accessing or viewing the Software.
+In order to get any license under these terms, you must agree
+to them as both strict obligations and conditions to all
+your licenses.
 
-GRANT OF RIGHTS
----------------
-The Author grants You the following limited rights:
+## Copyright License
 
-1. VIEWING: You may read, study, and review the Software source code
-   for personal educational purposes.
+The licensor grants you a copyright license for the
+software to do everything you might do with the software
+that would otherwise infringe the licensor's copyright
+in it for any permitted purpose.  However, you may
+only distribute the software according to [Distribution
+License](#distribution-license) and make changes or new works
+based on the software according to [Changes and New Works
+License](#changes-and-new-works-license).
 
-2. DISCUSSION: You may publicly discuss, reference, describe, and
-   critique the concepts, architecture, and algorithms embodied in the
-   Software. Attribution to the Author and ixCore.io is required.
+## Distribution License
 
-3. EVALUATION: You may run the Software locally for the sole purpose
-   of evaluating its functionality. Evaluation use does not grant any
-   right to deploy, distribute, or derive commercial benefit from the
-   Software.
+The licensor grants you an additional copyright license
+to distribute copies of the software.  Your license
+to distribute covers distributing the software with
+changes and new works permitted by [Changes and New Works
+License](#changes-and-new-works-license).
 
-RESTRICTIONS
-------------
-Unless explicitly authorized in writing by the Author, You may NOT:
+## Notices
 
-1. Use the Software for any commercial purpose.
-2. Modify, adapt, or create derivative works based on the Software.
-3. Redistribute, sublicense, sell, lease, or transfer the Software
-   or any portion thereof.
-4. Incorporate the Software, in whole or in part, into any other
-   software, product, or service.
-5. Remove, alter, or obscure any copyright notices, license text,
-   or attribution statements in the Software.
-6. Use the Software to provide services to third parties, whether
-   or not compensation is received.
-7. Reverse engineer any compiled or obfuscated portions of the
-   Software beyond what is provided in source form.
+You must ensure that anyone who gets a copy of any part of
+the software from you also gets a copy of these terms or the
+URL for them above, as well as copies of any plain-text lines
+beginning with `Required Notice:` that the licensor provided
+with the software.  For example:
 
-ATTRIBUTION
------------
-Any public discussion, presentation, publication, or reference to the
-concepts embodied in this Software must include the following attribution:
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
 
-    "VoxelVault by Corey J. / ixCore.io"
+## Changes and New Works License
 
-INTELLECTUAL PROPERTY
----------------------
-The spatial steganographic fingerprinting method ("Voxel Dead Drop"),
-including but not limited to the use of seed-derived ECEF coordinate
-quantization for data provenance binding, multi-granularity fingerprint
-spatial storage, and temporal commitment anchoring, constitutes original
-intellectual property of the Author. This license does not grant any
-patent, trademark, or other intellectual property rights beyond the
-limited viewing and discussion rights explicitly stated above.
+The licensor grants you an additional copyright license to
+make changes and new works based on the software for any
+permitted purpose.
 
-NO WARRANTY
------------
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
-THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
-FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE.
+## Patent License
 
-TERMINATION
------------
-This license is effective until terminated. Your rights under this license
-terminate automatically without notice if You fail to comply with any of
-its terms. Upon termination, You must destroy all copies of the Software
-in Your possession.
+The licensor grants you a patent license for the software that
+covers patent claims the licensor can license, or becomes able
+to license, that you would infringe by using the software.
 
-FUTURE LICENSING
-----------------
-The Author reserves the right to release future versions of the Software
-under different license terms, including open-source licenses. Any such
-relicensing applies only to versions explicitly released under the new
-terms. This version remains governed by this license unless the Author
-provides written notice of relicensing.
+## Noncommercial Purposes
 
-GOVERNING LAW
--------------
-This license shall be governed by and construed in accordance with the
-laws of the United States of America and the State of Minnesota.
+Any noncommercial purpose is a permitted purpose.
 
-CONTACT
--------
-For licensing inquiries, commercial use requests, or collaboration
-proposals: support@ixcore.io
+## Personal Uses
 
----
-License version: 1.0
-Effective date: February 2026
+Personal use for research, experiment, and testing for
+the benefit of public knowledge, personal study, private
+entertainment, hobby projects, amateur pursuits, or religious
+observance, without any anticipated commercial application,
+is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution,
+public research organization, public safety or health
+organization, environmental protection organization,
+or government institution is use for a permitted purpose
+regardless of the source of funding or obligations resulting
+from the funding.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the
+law. These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of
+your licenses to anyone else, or prevent the licensor from
+granting licenses to anyone else.  These terms do not imply
+any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or
+contributes to infringement of any patent, your patent license
+for the software granted under these terms ends immediately. If
+your company makes such a claim, your patent license ends
+immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have
+violated any of these terms, or done anything with the software
+not covered by your licenses, your licenses can nonetheless
+continue if you come into full compliance with these terms,
+and take practical steps to correct past violations, within
+32 days of receiving notice.  Otherwise, all your licenses
+end immediately.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without
+any warranty or condition, and the licensor will not be liable
+to you for any damages arising out of these terms or the use
+or nature of the software, under any kind of legal claim.***
+
+## Definitions
+
+The **licensor** is the individual or entity offering these
+terms, and the **software** is the software the licensor makes
+available under these terms.
+
+**You** refers to the individual or entity agreeing to these
+terms.
+
+**Your company** is any legal entity, sole proprietorship,
+or other kind of organization that you work for, plus all
+organizations that have control over, are under the control of,
+or are under common control with that organization.  **Control**
+means ownership of substantially all the assets of an entity,
+or the power to direct its management and policies by vote,
+contract, or otherwise.  Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the
+software under these terms.
+
+**Use** means anything you do with the software requiring one
+of your licenses.
